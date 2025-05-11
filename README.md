@@ -1,4 +1,4 @@
-# Speech Emotion Analyzer
+# Speech Analyzer
 
 * The idea behind creating this project was to build a machine learning model that could detect emotions from the speech we have with each other all the time. Nowadays personalization is something that is needed in all the things we experience everyday. 
 
@@ -78,7 +78,7 @@ The audio contained a male voice which said **"This coffee sucks"** in a angry t
 ![](images/livevoice2.PNG?raw=true)
 <br>
 
-### As you can see that the model has predicted the male voice and emotion very accurately in the image above.
+### As We can see that the model has predicted the male voice and emotion very accurately in the image above.
 
 ## NOTE: If you are using the model directly and want to decode the output ranging from 0 to 9 then the following list will help you.
 
